@@ -1,1 +1,1 @@
-# AI-ChessGame-C-
+# AI-ChessGame-C++
